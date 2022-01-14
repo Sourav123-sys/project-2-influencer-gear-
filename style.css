@@ -33,7 +33,7 @@ i{
     font-size: small;
 }
 .menu{
-    margin-left:175px;
+    margin-left:190px;
     margin-top:150px;
     font-size: 30px;
 }
@@ -255,9 +255,9 @@ footer {
         margin-left: 950px;
     }
     .menu{
-        padding-left: 80px;
-        padding-right: 80px;
-        align-items: center;
+        margin-left:190px;
+        margin-top:150px;
+        font-size: 30px;
     }
     .top-left h1 {
         font-size: 48px;
@@ -291,13 +291,7 @@ footer {
     .gallery {
         grid-template-columns: repeat(2,1fr);
     }
-    .videos-container {
-        row-gap: 20px;
-        column-gap: 20px;
-    }
-    .video-box {
-        width: 275px;
-    }
+
     .fab {
         font-size: 20px;
         width: 35px;
@@ -323,11 +317,9 @@ footer {
         padding-right: 30px;
     }
     .menu{
-        justify-content: center;
-        align-items: center;
-        align-items: center;
-        padding-left: 30px;
-        padding-right: 30px;
+        margin-left:90px;
+        margin-top:150px;
+        font-size: 30px;
     }
     .top-left {
         margin: 0;
@@ -425,11 +417,9 @@ footer {
         margin-left: 250px;
     }
     .menu{
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        padding-left: 5px;
-        padding-right: 5px;
+        margin-left:130px;
+        margin-top:150px;
+        font-size: 30px;
     }
     .top-left {
         margin: 0;
