@@ -93,9 +93,9 @@ i{
 .top-right img {
     width: 100%;
 }
-.top-banner:hover #copa-text {
+.top-banner:hover .copa-text {
     transform: rotate(360deg);
-    transition: 1s;
+    transition: 5s;
 }
 
 /*----------------------- Header section ends-----------------------  */
