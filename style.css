@@ -95,7 +95,7 @@ i{
 }
 .top-banner:hover .copa-text {
     transform: rotate(360deg);
-    transition: 5s;
+    transition: 1s;
 }
 
 /*----------------------- Header section ends-----------------------  */
