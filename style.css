@@ -38,8 +38,8 @@ i{
     font-size: 30px;
 }
 
-#copa-text{
-    font-size: 40px;
+.copa-text{
+    font-size: 30px;
 }
 .top-banner {
     display: flex;
@@ -60,7 +60,7 @@ i{
     margin-right: 110px;
 }
 .top-left h1 {
-    font-size: 64px;
+    font-size: 44px;
     line-height: 130%;
     
     margin: 0;
@@ -317,8 +317,8 @@ footer {
         padding-right: 30px;
     }
     .menu{
-        margin-left:90px;
-        margin-top:150px;
+        margin-left:120px;
+        margin-top:250px;
         font-size: 30px;
     }
     .top-left {
@@ -326,7 +326,10 @@ footer {
         width: 320px;
     }
     .top-left h1 {
-        font-size: 35px;
+        font-size: 30px;
+    }
+    .copa-text{
+        font-size: 30px;
     }
     .top-left a {
         font-size: 15px;
@@ -430,7 +433,7 @@ footer {
         width: 130px;
     }
     .top-left h1 {
-        font-size: 36px;
+        font-size: 20px;
     }
     .top-right {
         margin-top: 80px;
